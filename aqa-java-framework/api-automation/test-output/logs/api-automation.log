@@ -1,0 +1,47 @@
+2026-06-19 09:10:06 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\AppData\Local\JetBrains\IntelliJIdea2025.2\temp-testng-customsuite.xml
+
+2026-06-19 09:10:08 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=12.9716, longitude=77.5946}
+2026-06-19 09:10:14 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=51.5074, longitude=-0.1278}
+2026-06-19 09:10:14 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=40.7128, longitude=-74.006}
+2026-06-19 09:10:15 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=35.6762, longitude=139.6503}
+2026-06-19 09:10:16 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=-33.8688, longitude=151.2093}
+2026-06-19 09:10:17 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=35.6762, longitude=139.6503}
+2026-06-19 09:10:18 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=wind_speed_10m, latitude=35.6762, longitude=139.6503}
+2026-06-19 09:10:19 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=weather_code, latitude=35.6762, longitude=139.6503}
+2026-06-19 09:10:19 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {timezone=Europe/London, daily=temperature_2m_max, latitude=51.5074, longitude=-0.1278}
+2026-06-19 09:10:20 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {timezone=Europe/London, daily=temperature_2m_min, latitude=51.5074, longitude=-0.1278}
+2026-06-19 09:10:21 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {timezone=Europe/London, daily=precipitation_sum, latitude=51.5074, longitude=-0.1278}
+2026-06-19 09:10:22 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {hourly=temperature_2m, timezone=Asia/Kolkata, forecast_days=1, latitude=12.9716, longitude=77.5946}
+2026-06-19 09:10:23 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {hourly=temperature_2m, timezone=Asia/Kolkata, forecast_days=3, latitude=12.9716, longitude=77.5946}
+2026-06-19 09:10:23 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {hourly=temperature_2m, timezone=Asia/Kolkata, forecast_days=7, latitude=12.9716, longitude=77.5946}
+2026-06-19 09:10:24 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {hourly=temperature_2m, timezone=Asia/Kolkata, forecast_days=14, latitude=12.9716, longitude=77.5946}
+2026-06-19 09:10:25 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=12.9716, longitude=77.5946}
+2026-06-19 09:10:26 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=51.5074, longitude=-0.1278}
+2026-06-19 09:10:26 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=40.7128, longitude=-74.006}
+2026-06-19 09:10:27 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=35.6762, longitude=139.6503}
+2026-06-19 09:10:28 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=-33.8688, longitude=151.2093}
+2026-06-19 09:10:28 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {hourly=temperature_2m, latitude=12.9716, longitude=77.5946}
+2026-06-19 09:10:29 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {hourly=relative_humidity_2m, latitude=12.9716, longitude=77.5946}
+2026-06-19 09:10:30 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {hourly=wind_speed_10m, latitude=12.9716, longitude=77.5946}
+2026-06-19 09:10:31 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=999.0, longitude=999.0}
+2026-06-19 09:10:31 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=91.0, longitude=0.0}
+2026-06-19 09:10:32 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=0.0, longitude=181.0}
+2026-06-19 09:10:33 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=-91.0, longitude=0.0}
+2026-06-19 09:10:33 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, longitude=77.59}
+2026-06-19 09:10:34 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=12.9716, longitude=77.5946}
+2026-06-19 09:10:35 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=51.5074, longitude=-0.1278}
+2026-06-19 09:10:35 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=40.7128, longitude=-74.006}
+2026-06-19 09:10:36 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=35.6762, longitude=139.6503}
+2026-06-19 09:10:37 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=-33.8688, longitude=151.2093}
+2026-06-19 09:10:38 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, temperature_unit=celsius, latitude=40.7128, longitude=-74.006}
+2026-06-19 09:10:38 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, temperature_unit=fahrenheit, latitude=40.7128, longitude=-74.006}
+2026-06-19 09:10:39 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=12.9716, longitude=77.5946}
+2026-06-19 09:10:40 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=51.5074, longitude=-0.1278}
+2026-06-19 09:10:40 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=40.7128, longitude=-74.006}
+2026-06-19 09:10:41 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=35.6762, longitude=139.6503}
+2026-06-19 09:10:42 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=temperature_2m, latitude=-33.8688, longitude=151.2093}
+2026-06-19 09:10:42 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=wind_speed_10m, wind_speed_unit=kmh, latitude=-33.8688, longitude=151.2093}
+2026-06-19 09:10:43 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=wind_speed_10m, wind_speed_unit=mph, latitude=-33.8688, longitude=151.2093}
+2026-06-19 09:10:44 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=wind_speed_10m, wind_speed_unit=ms, latitude=-33.8688, longitude=151.2093}
+2026-06-19 09:10:45 [main] INFO  com.aqa.api.client.APIClient - GET /v1/forecast | params: {current=wind_speed_10m, wind_speed_unit=kn, latitude=-33.8688, longitude=151.2093}
